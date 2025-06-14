@@ -67,4 +67,15 @@ This submission is suitable for:
 - Open-eval testing environments  
 - AI educational reasoning evaluation  
 - Narrative prompting studies  
-- Showcase portfolios in LLM simulation design
+- Showcase portfolios in LLM simulation design ##
+- 🧠 Observer Verdicts
+
+This case includes two versions of a synthetic observer's meta-assessment, offering both expressive and filtered perspectives:
+
+- 🔍 **[Expressive MetaPortrait](Einstein_MetaPortrait_ObserverVerdict.md)**  
+  A narratively rich reflection on the structure and impact of the case. Best for readers interested in interpretive depth and cognitive storytelling.
+
+- 📊 **[Analytical Verdict (Praise-Filtered)](Einstein_MetaPortrait_PraiseFiltered.md)**  
+  A neutral and audit-friendly evaluation focused on simulation framing, alignment structure, and applicability for educational prompt design.
+
+> *Including both versions showcases not only the case content, but also the evaluative transparency and prompt-layer reflexivity of the author.*
